@@ -102,6 +102,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/navyarathore/navyarathore/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/navyarathore/navyarathore/output/dist/snake.svg" alt="Snake animation" />
 
 ###

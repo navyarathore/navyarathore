@@ -104,4 +104,6 @@
 
 <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/output/snake.svg" alt="Snake animation" />
 
+<img align="left" height="200" src="https://www.credly.com/users/navya-rathore"  />
+
 ###

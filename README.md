@@ -18,10 +18,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/navya-rathore" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
   <a href="https://dev.to/anonycat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="52" alt="devto logo"  />
   </a>
   <a href="https://www.credly.com/users/navya-rathore" target="_blank">
     <img src="https://cdn.simpleicons.org/credly/white" width="52" height="40" alt="credly logo"  />

@@ -143,7 +143,9 @@
 
 ###
 
-### 📌 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/sec-projects.svg" alt="Featured Projects" />
+</div>
 
 <!--
   Fill in your repos. Two options — keep ONE, delete the other.
@@ -151,10 +153,10 @@
   OPTION A — auto-updating pin cards (replace the repo names):
   <div align="center">
     <a href="https://github.com/navyarathore/YOUR-REPO-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-1&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-1&theme=catppuccin_mocha" />
     </a>
     <a href="https://github.com/navyarathore/YOUR-REPO-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-2&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-2&theme=catppuccin_mocha" />
     </a>
   </div>
 
@@ -168,7 +170,9 @@ _Coming soon — add your featured repos here._
 
 ###
 
-### Certifications
+<div align="center">
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/sec-certs.svg" alt="Certifications" />
+</div>
 
 <!-- Add certs as: - [Cert name](credly-link) — issuer, year -->
 
@@ -176,7 +180,9 @@ _See all on [Credly](https://www.credly.com/users/navya-rathore)._
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/sec-stats.svg" alt="My Stats" />
+</div>
 
 ###
 
@@ -187,14 +193,14 @@ _See all on [Credly](https://www.credly.com/users/navya-rathore)._
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyarathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyarathore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=navyarathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyarathore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=navyarathore&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=navyarathore&locale=en&mode=daily&hide_border=true&border_radius=5&background=1e1e2e&stroke=45475a&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=a6adc8&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###

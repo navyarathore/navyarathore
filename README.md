@@ -17,19 +17,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/navya-rathore" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=89b4fa" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/navyarathore" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="52" alt="github logo"  />
-  </a>
+  &nbsp;
   <a href="https://dev.to/anonycat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="52" alt="devto logo"  />
+    <img src="https://img.shields.io/badge/DEV.to-181825?style=for-the-badge&logo=devdotto&logoColor=cdd6f4" alt="DEV.to" />
   </a>
+  &nbsp;
   <a href="https://www.credly.com/users/navya-rathore" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/white" width="52" height="40" alt="credly logo"  />
+    <img src="https://img.shields.io/badge/Credly-181825?style=for-the-badge&logo=credly&logoColor=cba6f7" alt="Credly" />
   </a>
+  &nbsp;
   <a href="mailto:navyarathore0320@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="52" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=f38ba8" alt="Email" />
   </a>
 </div>
 

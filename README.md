@@ -1,17 +1,15 @@
-<table border="0">
-  <tr>
-    <td align="center" valign="middle" width="34%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91MmEyemprM3pqdWptY2p6MGNrdmdzZ2YwYmxjN3pnd3lpcnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100%" alt="laptop" />
-    </td>
-    <td align="center" valign="middle" width="66%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=460&lines=DevOps+Engineer;Cloud+Native+Systems+Builder;CI%2FCD+%26+Automation;Problem+Solver" alt="Typing SVG" />
-      </a>
-      <br />
-      <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/title.svg" alt="Hello! I am Navya Rathore" width="90%" />
-    </td>
-  </tr>
-</table>
+<img align="left" height="210" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91MmEyemprM3pqdWptY2p6MGNrdmdzZ2YwYmxjN3pnd3lpcnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" alt="laptop" />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=440&lines=DevOps+Engineer;Cloud+Native+Systems+Builder;CI%2FCD+%26+Automation;Problem+Solver" alt="Typing SVG" />
+  </a>
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/title.svg" alt="Hello! I am Navya Rathore" width="440" />
+</div>
+
+<br clear="both">
 
 <!-- ### 🚀 Currently -->
 

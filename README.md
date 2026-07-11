@@ -16,10 +16,6 @@
 
 ###
 
-<h3 align="center">DevOps Engineer | Problem Solver | Cloud Native Systems Builder</h3>
-
-###
-
 <!-- ### 🚀 Currently -->
 
 <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/currently.svg" alt="currently" width="100%" />

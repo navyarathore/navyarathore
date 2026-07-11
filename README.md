@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Native+Systems+Builder;CI%2FCD+%26+Automation;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
+
+###
+
 <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91MmEyemprM3pqdWptY2p6MGNrdmdzZ2YwYmxjN3pnd3lpcnJsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
 
 ###
@@ -10,7 +18,9 @@
 
 ###
 
-<p align="left">I’m currently expanding my skill set across Azure and broader DevOps ecosystems, diving into cloud-native architectures, deployment automation, CI/CD pipelines, and scalable infrastructure design.<br><br>Alongside this, I'm strengthening my data structures and algorithms foundations to improve problem-solving and software design. I’m continually exploring modern engineering practices and cloud-native tooling to level up my overall technical skill set.</p>
+### 🚀 Currently
+
+<img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/currently.svg" alt="currently" width="100%" />
 
 ###
 
@@ -20,11 +30,17 @@
   <a href="https://www.linkedin.com/in/navya-rathore" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
+  <a href="https://github.com/navyarathore" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="52" alt="github logo"  />
+  </a>
   <a href="https://dev.to/anonycat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="52" alt="devto logo"  />
   </a>
   <a href="https://www.credly.com/users/navya-rathore" target="_blank">
     <img src="https://cdn.simpleicons.org/credly/white" width="52" height="40" alt="credly logo"  />
+  </a>
+  <a href="mailto:navyarathore0320@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="52" alt="gmail logo"  />
   </a>
 </div>
 
@@ -59,6 +75,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
+
+<!-- OPTIONAL extra DevOps tools — uncomment only the ones you actually use
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo"  />
+-->
 
 ###
 
@@ -123,6 +149,39 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+### 📌 Featured Projects
+
+<!--
+  Fill in your repos. Two options — keep ONE, delete the other.
+
+  OPTION A — auto-updating pin cards (replace the repo names):
+  <div align="center">
+    <a href="https://github.com/navyarathore/YOUR-REPO-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-1&theme=github_dark" />
+    </a>
+    <a href="https://github.com/navyarathore/YOUR-REPO-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-2&theme=github_dark" />
+    </a>
+  </div>
+
+  OPTION B — table:
+  | Project | Description | Stack |
+  |---------|-------------|-------|
+  | [name](link) | what it does | K8s, Terraform, GH Actions |
+-->
+
+_Coming soon — add your featured repos here._
+
+###
+
+### 🏅 Certifications
+
+<!-- Add certs as: - [Cert name](credly-link) — issuer, year -->
+
+_See all on [Credly](https://www.credly.com/users/navya-rathore)._
 
 ###
 

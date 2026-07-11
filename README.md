@@ -36,11 +36,11 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=48&section=header&text=Languages%20%26%20Tools&fontColor=cdd6f4&fontSize=32&fontAlignY=50" alt="Languages & Tools" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-title.svg" alt="Languages & Tools" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Cloud%20%26%20DevOps&fontColor=cba6f7&fontSize=24&fontAlignY=50" alt="Cloud & DevOps" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-cloud.svg" alt="Cloud & DevOps" />
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Languages&fontColor=89b4fa&fontSize=24&fontAlignY=50" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-languages.svg" alt="Languages" />
 </div>
 
 <div align="center">
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Frontend&fontColor=f5c2e7&fontSize=24&fontAlignY=50" alt="Frontend" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-frontend.svg" alt="Frontend" />
 </div>
 
 <div align="center">
@@ -106,7 +106,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Databases&fontColor=a6e3a1&fontSize=24&fontAlignY=50" alt="Databases" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-databases.svg" alt="Databases" />
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Tools&fontColor=fab387&fontSize=24&fontAlignY=50" alt="Tools" />
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/lt-tools.svg" alt="Tools" />
 </div>
 
 <div align="center">

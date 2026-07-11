@@ -10,7 +10,9 @@
 
 ###
 
-<h3 align="center">Hello! I am Navya Rathore 🤓</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/title.svg" alt="Hello! I am Navya Rathore" width="60%" />
+</div>
 
 ###
 
@@ -18,7 +20,7 @@
 
 ###
 
-### 🚀 Currently
+<!-- ### 🚀 Currently -->
 
 <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/currently.svg" alt="currently" width="100%" />
 
@@ -50,7 +52,7 @@
 
 ###
 
-<h4 align="left">☁️ Cloud & DevOps</h4>
+<h4 align="left">Cloud & DevOps</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -88,7 +90,7 @@
 
 ###
 
-<h4 align="left">💻 Languages</h4>
+<h4 align="left">Languages</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -100,7 +102,7 @@
 
 ###
 
-<h4 align="left">🎨 Frontend</h4>
+<h4 align="left">Frontend</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -116,7 +118,7 @@
 
 ###
 
-<h4 align="left">🗄️ Databases</h4>
+<h4 align="left">Databases</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -132,7 +134,7 @@
 
 ###
 
-<h4 align="left">🛠️ Tools</h4>
+<h4 align="left">Tools</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -177,7 +179,7 @@ _Coming soon — add your featured repos here._
 
 ###
 
-### 🏅 Certifications
+### Certifications
 
 <!-- Add certs as: - [Cert name](credly-link) — issuer, year -->
 

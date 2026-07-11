@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hello! I am Navya Rathore 🤓</h1>
+<h3 align="center">Hello! I am Navya Rathore 🤓</h3>
 
 ###
 

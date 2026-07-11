@@ -17,19 +17,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/navya-rathore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=89b4fa" height="75" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=89b4fa" height="100" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://dev.to/anonycat" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-181825?style=for-the-badge&logo=devdotto&logoColor=cdd6f4" height="75" alt="DEV.to" />
+    <img src="https://img.shields.io/badge/DEV.to-181825?style=for-the-badge&logo=devdotto&logoColor=cdd6f4" height="100" alt="DEV.to" />
   </a>
   &nbsp;
   <a href="https://www.credly.com/users/navya-rathore" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-181825?style=for-the-badge&logo=credly&logoColor=cba6f7" height="75" alt="Credly" />
+    <img src="https://img.shields.io/badge/Credly-181825?style=for-the-badge&logo=credly&logoColor=cba6f7" height="100" alt="Credly" />
   </a>
   &nbsp;
   <a href="mailto:navyarathore0320@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=f38ba8" height="75" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=f38ba8" height="100" alt="Email" />
   </a>
 </div>
 

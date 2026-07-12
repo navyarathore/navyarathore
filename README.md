@@ -186,21 +186,14 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5keHN3Ymt3eWwwaHdxcGZzbHBvbDMwNnZsMzk2bm1ocDhrZW96cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPT7MrXvO47mWzugDa/giphy.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://github-stats-extended-frontend-black.vercel.app/api?username=navyarathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended-frontend-black.vercel.app/api/top-langs?username=navyarathore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5keHN3Ymt3eWwwaHdxcGZzbHBvbDMwNnZsMzk2bm1ocDhrZW96cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPT7MrXvO47mWzugDa/giphy.gif" height="180" alt="coding" />
+  <img src="https://github-stats-extended-frontend-black.vercel.app/api?username=navyarathore&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&card_width=450&locale=en&order=1" height="180" alt="stats graph"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=navyarathore&locale=en&mode=daily&hide_border=true&border_radius=5&background=1e1e2e&stroke=45475a&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=a6adc8&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-stats-extended-frontend-black.vercel.app/api/top-langs?username=navyarathore&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&card_width=350&locale=en&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=navyarathore&mode=daily&hide_border=true&border_radius=8&background=1e1e2e&stroke=45475a&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=a6adc8&locale=en" height="180" alt="streak graph"  />
 </div>
 
 ###

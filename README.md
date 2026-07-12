@@ -143,9 +143,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/sec-projects.svg" alt="Featured Projects" />
-</div>
+</div> -->
 
 <!--
   Fill in your repos. Two options — keep ONE, delete the other.
@@ -153,10 +153,10 @@
   OPTION A — auto-updating pin cards (replace the repo names):
   <div align="center">
     <a href="https://github.com/navyarathore/YOUR-REPO-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-1&theme=catppuccin_mocha" />
+      <img src="https://github-stats-extended-frontend-black.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-1&theme=catppuccin_mocha" />
     </a>
     <a href="https://github.com/navyarathore/YOUR-REPO-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-2&theme=catppuccin_mocha" />
+      <img src="https://github-stats-extended-frontend-black.vercel.app/api/pin/?username=navyarathore&repo=YOUR-REPO-2&theme=catppuccin_mocha" />
     </a>
   </div>
 
@@ -166,17 +166,17 @@
   | [name](link) | what it does | K8s, Terraform, GH Actions |
 -->
 
-_Coming soon — add your featured repos here._
+<!-- _Coming soon — add your featured repos here._ -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/navyarathore/navyarathore/main/assets/sec-certs.svg" alt="Certifications" />
 </div>
 
 <!-- Add certs as: - [Cert name](credly-link) — issuer, year -->
 
-_See all on [Credly](https://www.credly.com/users/navya-rathore)._
+<!-- _See all on [Credly](https://www.credly.com/users/navya-rathore)._ -->
 
 ###
 
@@ -193,8 +193,8 @@ _See all on [Credly](https://www.credly.com/users/navya-rathore)._
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navyarathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navyarathore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-stats-extended-frontend-black.vercel.app/api?username=navyarathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended-frontend-black.vercel.app/api/top-langs?username=navyarathore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=catppuccin_mocha&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
